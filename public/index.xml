@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carlos Eduardo Cortés Gómez</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Carlos Eduardo Cortés Gómez</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Data Scientist/Engineer based in Colombia, passionate about leveraging data to solve complex problems and create meaningful insights. With expertise in both data science and engineering, I bring a comprehensive approach to data-driven solutions.&lt;/p&gt;
+&lt;h2 id=&#34;professional-background&#34;&gt;Professional Background&lt;/h2&gt;
+&lt;p&gt;I specialize in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Science and Engineering&lt;/li&gt;
+&lt;li&gt;Computational Social Sciences &amp;amp; Biostatistics&lt;/li&gt;
+&lt;li&gt;Machine Learning and Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Data Pipeline Development and Orchestration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When I&amp;rsquo;m not working with data, you can find me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bird-watching in Colombia&amp;rsquo;s diverse ecosystems&lt;/li&gt;
+&lt;li&gt;Hiking through mountain trails&lt;/li&gt;
+&lt;li&gt;Contributing to open-source projects&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
+&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python (Advanced)&lt;/li&gt;
+&lt;li&gt;SQL (Advanced)&lt;/li&gt;
+&lt;li&gt;R (Advanced)&lt;/li&gt;
+&lt;li&gt;Julia (Intermediate)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-engineering&#34;&gt;Data Engineering&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Airflow&lt;/li&gt;
+&lt;li&gt;Dagster&lt;/li&gt;
+&lt;li&gt;Prefect&lt;/li&gt;
+&lt;li&gt;Data Pipeline Design and Implementation&lt;/li&gt;
+&lt;li&gt;ETL/ELT Processes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-science--analytics&#34;&gt;Data Science &amp;amp; Analytics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Statistical Analysis&lt;/li&gt;
+&lt;li&gt;Computational Social Sciences&lt;/li&gt;
+&lt;li&gt;Biostatistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools--technologies&#34;&gt;Tools &amp;amp; Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Version Control (Git)&lt;/li&gt;
+&lt;li&gt;Data Visualization&lt;/li&gt;
+&lt;li&gt;Big Data Technologies&lt;/li&gt;
+&lt;li&gt;Cloud Platforms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;field-experience&#34;&gt;Field Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bird-watching&lt;/li&gt;
+&lt;li&gt;Mountain Hiking&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
